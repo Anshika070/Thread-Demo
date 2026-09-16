@@ -1,0 +1,15 @@
+/workspaces/Thread-Demo/ThreadDemo/bin/Debug/net10.0/ThreadDemo
+/workspaces/Thread-Demo/ThreadDemo/bin/Debug/net10.0/ThreadDemo.deps.json
+/workspaces/Thread-Demo/ThreadDemo/bin/Debug/net10.0/ThreadDemo.runtimeconfig.json
+/workspaces/Thread-Demo/ThreadDemo/bin/Debug/net10.0/ThreadDemo.dll
+/workspaces/Thread-Demo/ThreadDemo/bin/Debug/net10.0/ThreadDemo.pdb
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.AssemblyInfoInputs.cache
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.AssemblyInfo.cs
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.csproj.CoreCompileInputs.cache
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.sourcelink.json
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.dll
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/refint/ThreadDemo.dll
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.pdb
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ThreadDemo.genruntimeconfig.cache
+/workspaces/Thread-Demo/ThreadDemo/obj/Debug/net10.0/ref/ThreadDemo.dll
